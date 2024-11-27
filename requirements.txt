@@ -1,0 +1,4 @@
+transformers
+flask
+transformers-interpret
+python-dotenv

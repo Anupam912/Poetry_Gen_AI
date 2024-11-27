@@ -10,9 +10,6 @@ The project offers multiple enhancements, including:
 - **Adaptive Learning**: Customizes output based on user-uploaded poetry.
 - **Emotion and Sentiment-Based Customization**: Tailors poems to the user's mood.
 - **Multilingual Poetry Generation**: Supports poetry in multiple languages.
-- **AI-Generated Visuals**: Pairs poems with AI-generated images.
-- **Text-to-Speech Narration**: Converts poems into audio for an immersive experience.
-- **Explainable AI**: Provides transparency into how the AI generates poems.
 
 ---
 
